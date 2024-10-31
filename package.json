@@ -1,0 +1,17 @@
+{
+  "name": "ist23-oop_mybank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "zeenat",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^10.0.1"
+  }
+}
